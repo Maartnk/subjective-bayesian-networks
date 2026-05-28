@@ -13,7 +13,7 @@ data/
   README.md
 
 notebooks/
-  reproduce_manuscript.ipynb
+  subjective_bayesian_network_notebook.ipynb
 
 outputs/
   figures/
@@ -47,7 +47,7 @@ data/breast_treat_qol_likert.bif
 data/cpt_likert_csv.csv
 ```
 
-The notebook writes outputs to `outputs/`, including the learned Bayesian network, learning-related manuscript tables, exact-inference outputs, and generated figures.
+The notebook writes outputs to `outputs/`, including the learned Bayesian network, learning-related tables, exact-inference outputs, and generated figures.
 
 
 ## Notes
