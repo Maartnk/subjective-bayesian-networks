@@ -1,0 +1,9 @@
+item,value
+run_timestamp,2026-05-28T22:10:22
+python,3.12.13
+numpy,2.0.2
+pandas,2.2.2
+pgmpy,1.1.2
+model_path,/content/breast_treat_qol_likert.bif
+evidence_path,/content/cpt_likert_csv.csv
+learned_model_path,outputs/learned_networks/breast_cancer_learned.xml
