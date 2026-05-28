@@ -1,0 +1,25 @@
+domain,statement_node,target_state,treatment_scenario,probability,method,Adjuvant therapy,Surgery
+fatigue,Virtual Evidence Fatigue,decreased_or_similar,Adjuvant therapy=chemotherapy | Surgery=mastectomy,0.6549587211935659,exact_variable_elimination,chemotherapy,mastectomy
+fatigue,Virtual Evidence Fatigue,decreased_or_similar,Adjuvant therapy=hormone_therapy | Surgery=breast_conserving,0.6023630847648613,exact_variable_elimination,hormone_therapy,breast_conserving
+fatigue,Virtual Evidence Fatigue,decreased_or_similar,Adjuvant therapy=none | Surgery=breast_conserving,0.5846206046858561,exact_variable_elimination,none,breast_conserving
+fatigue,Virtual Evidence Fatigue,decreased_or_similar,Adjuvant therapy=none | Surgery=mastectomy,0.5737381571809328,exact_variable_elimination,none,mastectomy
+fatigue,Virtual Evidence Fatigue,decreased_or_similar,Adjuvant therapy=hormone_therapy | Surgery=mastectomy,0.4414187594244134,exact_variable_elimination,hormone_therapy,mastectomy
+fatigue,Virtual Evidence Fatigue,decreased_or_similar,Adjuvant therapy=chemotherapy | Surgery=breast_conserving,0.40019268435829414,exact_variable_elimination,chemotherapy,breast_conserving
+fatigue,Virtual Evidence Fatigue,decreased_or_similar,Adjuvant therapy=chemo_hormone | Surgery=breast_conserving,0.330368363541468,exact_variable_elimination,chemo_hormone,breast_conserving
+fatigue,Virtual Evidence Fatigue,decreased_or_similar,Adjuvant therapy=chemo_hormone | Surgery=mastectomy,0.24680291694162398,exact_variable_elimination,chemo_hormone,mastectomy
+pain,Virtual Evidence Pain,decreased_or_similar,Adjuvant therapy=chemotherapy | Surgery=mastectomy,0.7166859883387711,exact_variable_elimination,chemotherapy,mastectomy
+pain,Virtual Evidence Pain,decreased_or_similar,Adjuvant therapy=chemotherapy | Surgery=breast_conserving,0.6520138365886935,exact_variable_elimination,chemotherapy,breast_conserving
+pain,Virtual Evidence Pain,decreased_or_similar,Adjuvant therapy=hormone_therapy | Surgery=breast_conserving,0.5832584165150846,exact_variable_elimination,hormone_therapy,breast_conserving
+pain,Virtual Evidence Pain,decreased_or_similar,Adjuvant therapy=hormone_therapy | Surgery=mastectomy,0.5774901859016575,exact_variable_elimination,hormone_therapy,mastectomy
+pain,Virtual Evidence Pain,decreased_or_similar,Adjuvant therapy=none | Surgery=breast_conserving,0.575343857178579,exact_variable_elimination,none,breast_conserving
+pain,Virtual Evidence Pain,decreased_or_similar,Adjuvant therapy=chemo_hormone | Surgery=breast_conserving,0.5530809334504674,exact_variable_elimination,chemo_hormone,breast_conserving
+pain,Virtual Evidence Pain,decreased_or_similar,Adjuvant therapy=none | Surgery=mastectomy,0.5264620896932499,exact_variable_elimination,none,mastectomy
+pain,Virtual Evidence Pain,decreased_or_similar,Adjuvant therapy=chemo_hormone | Surgery=mastectomy,0.41908148207295265,exact_variable_elimination,chemo_hormone,mastectomy
+body_image,Virtual Evidence Body Image,increased_or_similar,Adjuvant therapy=none | Surgery=mastectomy,0.7677280024110091,exact_variable_elimination,none,mastectomy
+body_image,Virtual Evidence Body Image,increased_or_similar,Adjuvant therapy=chemo_hormone | Surgery=mastectomy,0.7677280024110091,exact_variable_elimination,chemo_hormone,mastectomy
+body_image,Virtual Evidence Body Image,increased_or_similar,Adjuvant therapy=hormone_therapy | Surgery=mastectomy,0.7677280024110091,exact_variable_elimination,hormone_therapy,mastectomy
+body_image,Virtual Evidence Body Image,increased_or_similar,Adjuvant therapy=chemotherapy | Surgery=mastectomy,0.7677280024110091,exact_variable_elimination,chemotherapy,mastectomy
+body_image,Virtual Evidence Body Image,increased_or_similar,Adjuvant therapy=chemo_hormone | Surgery=breast_conserving,0.6371740726418218,exact_variable_elimination,chemo_hormone,breast_conserving
+body_image,Virtual Evidence Body Image,increased_or_similar,Adjuvant therapy=none | Surgery=breast_conserving,0.6371740726418218,exact_variable_elimination,none,breast_conserving
+body_image,Virtual Evidence Body Image,increased_or_similar,Adjuvant therapy=chemotherapy | Surgery=breast_conserving,0.6371740726418218,exact_variable_elimination,chemotherapy,breast_conserving
+body_image,Virtual Evidence Body Image,increased_or_similar,Adjuvant therapy=hormone_therapy | Surgery=breast_conserving,0.6371740726418218,exact_variable_elimination,hormone_therapy,breast_conserving
